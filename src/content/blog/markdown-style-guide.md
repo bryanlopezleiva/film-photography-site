@@ -2,7 +2,7 @@
 title: "Blurry Nights"
 description: "Here is a sample of some basic Markdown syntax that can be used when writing Markdown content in Astro."
 pubDate: "May 31 2025"
-heroImage: "../../assets/blurry-nights.jpg"
+heroImage: "../../assets/blurred-nights.jpg"
 ---
 
 Here is a sample of some basic Markdown syntax that can be used when writing Markdown content in Astro.
